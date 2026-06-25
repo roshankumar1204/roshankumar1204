@@ -47,7 +47,7 @@ The hard part of this system isn't the dashboard — it's making messy, inconsis
 
 ---
 
-### Soni &nbsp;·&nbsp; [soni.app](https://soni.app)
+### Soni &nbsp;·&nbsp; [sonii.app](https://sonii.app/home)
 > Voice-activated AI assistant with context-aware responses and personalized auth
 
 - LangChain-powered NLP backend handling weather, Wikipedia, calendar, and web automation via LLM tool calls
